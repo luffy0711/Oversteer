@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ddd3ff3f26c83754b88a1a81027b922d, type: 3}
+  m_Name: base
+  m_EditorClassIdentifier: 
+  carName: zrd
+  carPrefab: {fileID: 937923859352702125, guid: 4336676cf0c43924ea1fecc12aa67edd, type: 3}
+  rarity: 3
